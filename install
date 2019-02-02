@@ -1,2 +1,5 @@
 pkg install php python git nano -y
 ./ngrok authtoken 7PHBYHEEB5YMYsuitCatY_5AeYL358giwgPQkmGqgHN
+chmod +x ngrok
+chmod +x Start-Server
+chmod +x start-v-online
