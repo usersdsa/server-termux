@@ -1,1 +1,1 @@
-pkg install php python git nano
+pkg установить php python git nano -y
